@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=xbox360receiver
+name=Xbox360 Receiver Support
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=lukedoomer
+description=add support for chinese/fake/clone xbox360 wireless receiver, USBID 045e:0291
 minMagisk=17000
